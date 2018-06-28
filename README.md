@@ -25,3 +25,10 @@ And Nadya Sutjiadi / [Mastah Nadya_Tj](https://line.me/ti/p/~nadya_tj)
 
 ## Author Linepy
 Fadhiil Rachman / [Mastah Fadhiilrachman](https://www.instagram.com/fadhiilrachman)
+
+Login vps 
+screen -R Husni
+cd anuan
+python 3 anuan
+screen -S Husni
+screen -X kill
